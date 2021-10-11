@@ -33,7 +33,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo Link
 
-You can use [this link](https://vaccine_catalog.herokuapp.com/) to access the demo version of this app that deployed to Heroku.
+You can use [this link](https://vaccine-catalog.herokuapp.com/) to access the demo version of this app that deployed to Heroku.
 
 ## Authors
 
